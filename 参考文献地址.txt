@@ -1,0 +1,41 @@
+【1】《Cordova+Angularjs+Ionic混合开发入门篇（一）----- ionic环境搭建》
+https://blog.csdn.net/li_1271005938/article/details/76150675
+
+【2】《Cordova+Angularjs+Ionic 混合开发入门讲解》
+https://blog.csdn.net/molashaonian/article/details/52538314
+
+【3】《最佳（也许）实践：开始用Cordova + Ionic + AngularJS 开发你的 App》
+https://segmentfault.com/a/1190000002954226
+
+【4】《ionic中文网》
+http://ionic-china.com/index.html
+s
+【5】《极致智慧社区》
+http://www.jeez.com.cn/yyindex.html
+
+【6】《智慧社区解决方案-智慧社区系统|运营服务平台|APP-TCC智慧社区管理平台-太川科技》
+http://www.bjtaichuan.com/Projects/zhsqznxqjj.html
+
+【7】《抓住＂智慧社区＂发展机遇》
+http://www.0easy.com/a/xwzx/xyxw/1350.html
+
+【8】《百度百科：智慧社区》
+https://baike.baidu.com/item/%E6%99%BA%E6%85%A7%E7%A4%BE%E5%8C%BA/9504135?fr=aladdin
+
+【9】《小区管家》
+http://www.xiaoquguanjia.cn/serviceCustom
+
+【10】《知乎：有成功的智慧社区app应用吗？》
+https://www.zhihu.com/question/53509189/answer/138219869
+
+【11】《2016年最新国内外智慧社区发展现状与趋势研究报告》
+https://wenku.baidu.com/view/59524adfbed5b9f3f80f1c22.html
+
+【12】《社区管理系统国内外发展状况和发展趋势》
+http://www.lwfree.cn/yanjiu/20170425/5713.html
+
+【13】《浅谈手机app的应用和发展》
+https://wenku.baidu.com/view/03c273b7dc88d0d233d4b14e852458fb770b381d.html
+
+【14】《手机APP的发展历程及趋势》
+https://wenku.baidu.com/view/e7bd80100c22590103029d95.html
