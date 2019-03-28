@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" v-model="attr" />
+        <div>
+            <span>{{attr}}</span>
+            {{attr}}
+        </div>
+        {{attr}}
+        <span>{{attr}}</span>
+        {{attr}}
+        <div>
+            <ul>
+                <li>
+                    <span>{{attr}}</span>
+                </li>
+                <li>
+                    <span>{{attr}}<a href="#">{{attr}}</a></span>
+                </li>
+                <li>
+                    <a href="#">{{attr}}</a>
+                </li>
+            </ul>
+        </div>
+        <div>{{attr}}</div>
+        {{attr}}
+    </div>
+
+    <script src="./mmyVue.js"></script>
+    <script>
+        var vm = new Vue({
+            el: '#app',
+            data: {
+                attr: 'hello world'
+            }
+        });
+    </script>
+</body>
+</html>

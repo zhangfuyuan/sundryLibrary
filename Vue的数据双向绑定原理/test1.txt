@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="text" id="input"/>
+    <span id="output"></span>
+
+    <script>
+        //声明一个对象
+        var obj = {};
+
+        //为 obj 定义一个名为 attr 的访问器属性
+        Object.defineProperty(obj, 'attr', {
+            //数据变化时，文本节点的内容同步变化，即 model => view 的变化
+            set: function (newVal) {
+                document.querySelector('#input').value = newVal;
+                document.querySelector('#output').innerHTML = newVal;
+            }
+        });
+
+        //输入框内容变化时，数据同步变化，即 view => model 的变化
+        document.addEventListener('input', function (e) {
+            obj['attr'] = e.target.value;
+        });
+    </script>
+</body>
+</html>
